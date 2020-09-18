@@ -53,7 +53,7 @@ delicious food</p>
   <img src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg" alt="Apache" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" alt="NGINX" width="30" height="30"/>
 <P>
-<h4>Server && Services</h4>
+<h4>Server & Services</h4>
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/>
