@@ -1,8 +1,9 @@
-![banner1](https://user-images.githubusercontent.com/60376045/89105505-524e7100-d3e7-11ea-9459-966119ea226d.png)
+<img src="https://github.com/samisosa20/samisosa20/blob/master/banner.png" alt="banner" width="100%"/>
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap" rel="stylesheet">
+  
 </head>
-<h1 align="center"> I’m Sammy Guttman L :wave:</h1>
+<h1 align="center" style="font-family: 'Oswald', sans-serif;"> I’m Sammy Guttman L :wave:</h1>
 <h5 align="center">Full Stack Software Developer | Production Engineer | AWS Student ambassador</h5>
 
 
