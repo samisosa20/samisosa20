@@ -61,7 +61,7 @@ delicious food</p>
 
 
 ## Github Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisosa20)](https://github.com/samisosa20/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisosa20&hide=TSQL)](https://github.com/samisosa20/github-readme-stats)
 
 <!-- display the social media buttons in your README -->
 
