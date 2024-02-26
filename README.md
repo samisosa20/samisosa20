@@ -77,9 +77,9 @@ delicious food</p>
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
-<img src="https://raw.githubusercontent.com/samisosa20/samisosa20/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/samisosa20/samisosa20/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
