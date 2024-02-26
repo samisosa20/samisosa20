@@ -3,71 +3,86 @@
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap" rel="stylesheet">
   
 </head>
-<h1 align="center" style="font-family: 'Oswald', sans-serif;"> I’m Sammy Guttman L :wave:</h1>
-<h5 align="center">Full Stack Software Developer | Production Engineer | AWS Student ambassador</h5>
+<h2 align="left">Hi 👋! My name is Sammy and I'm a full stack developer, from Colombia</h2>
 
 
-<h2 align="center"><a id="About_me_6"></a>About me :boy:</h2>
+<h3 align="center"><a id="About_me_6"></a>About me :boy:</h3>
 <p>
-  Production engineer with work experience of 3 years in the exercise of his profession in the area of ​​continuous improvement. 
-  With skills for the advanced use of office automation tools, management of design programs, and programming languages. 
-  It has self-employment that it has been developing for approximately 2 years, dedicated to the development of manufacturing 
-  software (production, maintenance, quality, and inventory) supported in the cloud and implementing IoT technology and Big Data Analytics.
-  which has developed skills to listen and respond in a timely manner to customer requirements, self-learning, time management, assertive 
-  communication and leading teams
+  Highly innovative and results-oriented professional with a solid 3-year experience in continuous improvement and a 5-year track record in web design and development across various industries. Noteworthy for expertise in database development, user interface creation, code writing and testing, as well as problem-solving for both simple and complex issues. A specialist in implementing new functionalities based on user feedback, efficient time management, and effective team leadership.
 </p>
 
 
 <p align="center">:camping: camping | :earth_americas: Travel | :motorcycle: ride motorcycle | :fish: 
 delicious food</p>
 
-<h3 align="center">A passionate developer web , never stop learning </h3>
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-## My skills
-<h4>Low level</h4>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-<P>
-<h4>High level</h4>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-<P>
-<h4>Web developer</h4>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="react" width="30" height="30"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
-<P>
-<h4>Data base</h4>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="30" height="30"/>
-<P>
-<h4>Web server</h4>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="Apache" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="30" height="30"/>
-<P>
-<h4>Server & Services</h4>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/>
-<P>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samisosa20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samisosa20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Github Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisosa20&hide=TSQL)](https://github.com/samisosa20/github-readme-stats)
+###
 
-<!-- display the social media buttons in your README -->
+<div align="left">
+  <h4>Elemental</h4>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+    <img width="12" />
+  </div>
+  <div>
+    <h4>Styling</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="styledcomponents logo"  />
+    <img width="12" />
+  </div>
+  <div>
+    <h4>Libraries and frameworks - Frontend</h4>
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/redux/764ABC" height="30" alt="redux logo"  />
+    <img width="12" />
+  </div>
+  <div>
+    <h4>Libraries and frameworks - Backend</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
+     <img width="12" />
+    
+  </div>
+  <div>
+    <h4>Database</h4>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+    </div>
+  </div>
+</div>
 
-<p align="center">
-<a href="https://twitter.com/samisosabmx" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/733/733579.svg" alt="@samisosa20" height="35" width="35" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/samgutlon/?locale=en_US" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" alt="samgutlon/" height="35" width="35" /></a>&nbsp;
-<a href="https://www.facebook.com/samisosa20" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/733/733547.svg" alt="samisosa20" height="35" width="35" /></a>&nbsp;
-<a href="https://instagram.com/sammyguttman" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/174/174855.svg" alt="sammyguttman" height="35" width="35" /></a>
-</p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/samisosa20/samisosa20/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
