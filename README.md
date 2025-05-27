@@ -8,7 +8,25 @@
 
 <h3 align="center"><a id="About_me_6"></a>About me :boy:</h3>
 <p>
-  Highly innovative and results-oriented professional with a solid 3-year experience in continuous improvement and a 5-year track record in web design and development across various industries. Noteworthy for expertise in database development, user interface creation, code writing and testing, as well as problem-solving for both simple and complex issues. A specialist in implementing new functionalities based on user feedback, efficient time management, and effective team leadership.
+I'm a senior web developer with over 8 years of experience building scalable technology solutions to optimize processes, improve operational efficiency, and deliver real business value. I've worked across sectors like manufacturing, retail, and tech—leading technical teams and managing projects from concept to delivery.
+</p>
+<p>
+🚀 What sets me apart:
+</p>
+<p>
+Technical leadership in frontend and full stack development (React, Next.js, Node.js, Laravel, Python).
+</p>
+<p>
+Database optimization and automation of production processes.
+</p>
+<p>
+Implementation of scalable software architectures (MVC, Hexagonal).
+</p>
+<p>
+Strategic, data-driven mindset using key performance indicators and continuous improvement (OEE, TPM).
+</p>
+<p>
+I enjoy collaborating with cross-functional teams, sharing knowledge, and developing solutions aligned with business goals.
 </p>
 
 
